@@ -39,13 +39,12 @@ Clone the GitHub repository using:
 ``` bash
 git clone
 https://github.cpm/malhotra26bce11457-dotcom/guess-trhe-number.git
+```
 Step 2: Open the project folder
 Open the downloaded project folder in a python-compatible code editor.
 Step 3: Run the python program
-Run the following command in the terminal:
-
-
-## 5.Testing Instructions
+Run the following command in the terminal.
+## 5. Testing Instruction 
 The program can be tested using different types of guesses.
 Test case 1: Guess is two low
 input:
