@@ -46,6 +46,7 @@ Step 3: Run the python program
 Run the following command in the terminal.
 ## 5. Testing Instruction 
 The program can be tested using different types of guesses.
+
 Test case 1: Guess is two low
 
 Input:
