@@ -47,21 +47,27 @@ Run the following command in the terminal.
 ## 5. Testing Instruction 
 The program can be tested using different types of guesses.
 Test case 1: Guess is two low
-input:
+
+Input:
 20
 Expected output:
 your guess is too low. Try again.
+
 Test case 2: Guess is too high
+
 input:
 80
 Expected output:
 Your guess is too high. Try again.
+
 Test case 3: correct guess
+
+
 input:
 50
-If the randomly generated number is 50:
 Expected output:
 Woohoo! you guessed the number correctly.
+
 Test case 4: Maximum attempts
 If the player is not able to guesses the number for all 10 attempts
 Expected output:
