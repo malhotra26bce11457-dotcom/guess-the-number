@@ -67,6 +67,7 @@ If the player is not able to guesses the number for all 10 attempts
 Expected output:
 Sorry! you have used all 10 attempts.
 The correct number was:[ number]
+<img width="1920" height="1200" alt="guess_random_number" src="https://github.com/user-attachments/assets/3dc093aa-279d-40fe-a5f7-0f3c5820653f" />
 
 
 
