@@ -76,6 +76,9 @@ Sorry! you have used all 10 attempts.
 The correct number was:[ number]
 
 
+## 6. Screenshots
+
+
 
 <img width="1920" height="1200" alt="guess_random_number" src="https://github.com/user-attachments/assets/3dc093aa-279d-40fe-a5f7-0f3c5820653f" />
 
