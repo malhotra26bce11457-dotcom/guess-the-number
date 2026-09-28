@@ -86,7 +86,7 @@ The correct number was:[ number]
 
 
 ## 1. Problem Statement
-Guess the number is an interesting Python-based game in which the computer generates a random number between 1 and 100. The player has to guess the number within a maximum of 10 attempts. After each guess made by the player, the program gives a message to help the player:
+Guess the number is an interesting Python-based game in which the computer generated a random number between 1 and 100. The player has to guess the number within a maximum of 10 attempts. After each guess made by the player, the program gives a message to help the player:
 
 - If the guess is smaller than the random number generate by the computer, it displays the message that the guess is smaller than the correct number.
 - If the guess is bigger than the random number generate by the computer, it displays the message that the guess is bigger than the correct number.
