@@ -1,6 +1,6 @@
 # Guess the Number - Project Statement
 ## 1. Problem Statement
-Guess the number is a interesting python- based game in which the computer generates a random number between 1 and 100.
+Guess the number is an interesting python-based game in which the computer generated a random number between 1 and 100.
 The player has to guess the number within a maximum of 10 attempts. 
 After each guess made by the player, the program gives a message to help the player:
 - If the guess is smaller than the random number generate by the computer, it displays the message that the guess is smaller than the correct number.
@@ -9,20 +9,20 @@ After each guess made by the player, the program gives a message to help the pla
 The main purpose of this project is to create a simple interesting game with the help of basic python programming concepts. 
 ## 2. Scope of the project
 The project is designed as a simple command-line guessing game. It helps us to understand and practice python programming concepts such as:
-- Varibles
+- Variables
 - User input
 - Random number generation
 - while loop
 - if, elif and else statements
 - Break statement
 - Counters and attempts
-## 3. Target users. 
+## 3. Target users
 The target users of this project are.
-- Beginners who are learning python programming.
+- Beginners who are learning Python programming.
 - Students who want to practice basic programming concepts. 
-- User who wants to play a simple number and interesting guessing the number game. 
+- Users who wants to play a simple number and interesting guessing the number game. 
 - Anyone interested in small command-line based games.
-## 4. High - Level Features
+## 4. High-Level Features
 The main features of the project are:
 - Generates a random number between 1 and 100.
 - Allow the player to guess their number.
