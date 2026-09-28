@@ -7,7 +7,7 @@ After each guess made by the player, the program gives a message to help the pla
 - If the guess is bigger than the random number generate by the computer, it displays the message that the guess is bigger than the correct number.
 - If the guess is correct, the game displays a woohoo! message and in how many attempts player has taken to guess the number also generate.
 The main purpose of this project is to create a simple interesting game with the help of basic python programming concepts. 
-## 2. Scope of the project 
+## 2. Scope of the project
 The project is designed as a simple command-line guessing game. It helps us to understand and practice python programming concepts such as:
 - Varibles
 - User input
